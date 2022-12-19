@@ -1,2 +1,24 @@
+table{
+    width: 65%;
+    border-collapse: collapse;
+}
+.item{
+    text-align: center;
+    border: 2px solid black;
+    
+}
 
-/* Your CSS Code here. */
+.item1{
+    text-align: center;
+    border: 2px solid black;
+}
+
+.item2{
+    text-align: center;
+    border: 2px solid black;
+}
+
+.item3{
+    text-align: center;
+    border: 2px solid black;
+}
