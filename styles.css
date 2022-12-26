@@ -1,33 +1,10 @@
-.table,tr,td{
-    border: 2px solid black;
-    height: 15px;
-    width: 100px;
-    border-collapse: collapse;
-   
-}
-
-
-/* table{
+table{
     width: 65%;
     border-collapse: collapse;
 }
+
 .item{
     text-align: center;
     border: 2px solid black;
     
 }
-
-.item1{
-    text-align: center;
-    border: 2px solid black;
-}
-
-.item2{
-    text-align: center;
-    border: 2px solid black;
-}
-
-.item3{
-    text-align: center;
-    border: 2px solid black;
-} */
