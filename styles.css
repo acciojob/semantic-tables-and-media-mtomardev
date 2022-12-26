@@ -1,4 +1,13 @@
-table{
+.table,tr,td{
+    border: 2px solid black;
+    height: 15px;
+    width: 100px;
+    border-collapse: collapse;
+   
+}
+
+
+/* table{
     width: 65%;
     border-collapse: collapse;
 }
@@ -21,4 +30,4 @@ table{
 .item3{
     text-align: center;
     border: 2px solid black;
-}
+} */
